@@ -1,0 +1,61 @@
+body{
+    padding:0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+header{
+    position: fixed;
+    width: 100vw;
+    padding:0px;
+    margin: 0px;
+    background-color: white;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: (0,0,0)
+}
+.logo{
+    width:155px;
+    padding: 0px;
+   margin: 0px; 
+}
+h1{
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #4a4a4a;
+    font-family: 'Rubik', sans-serif;
+    padding: 0px;
+    margin:0px; 
+}
+.blog{
+    margin: 0px 10px 0px 0px;
+}
+.contacto{
+    margin: 0px 0px 0px 10px;
+}
+.menu{
+    display:flex;
+    margin: 10px 0px 13px 0px;
+}
+.principal{
+    width: 100vw;
+    height: 100vh;
+    background-color: #3CDBC0;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.lema{
+    color: #FFFFFF;
+    font-size:30px;
+    background-color: #3CDBC0;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    width: 155px;
+    font-weight: 900;
+}
+
