@@ -1,4 +1,4 @@
-.body{
+body{
     padding:0px;
     margin: 0px;
 }
@@ -31,17 +31,10 @@ h1{
     margin:0px; 
 }
 .blog{
-    text-decoration: none;
     margin: 0px 10px 0px 0px;
 }
-.contact{
+.contacto{
     margin: 0px 0px 0px 10px;
-    text-transform: uppercase;
-    font-size: 16px;
-    color: #4a4a4a;
-    font-family: 'Rubik', sans-serif;
-    padding: 0px;
-    margin:0px; 
 }
 .menu{
     display:flex;
@@ -71,7 +64,7 @@ h1{
     flex-direction: row;
     justify-content: space-between;
     }
-    .contact{
+    .contacto{
         margin: 0px 30px 0px 10px;
     }
     .logo{
